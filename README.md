@@ -6,3 +6,7 @@ Delete Cybereason on your system<br>
 # USAGE
 
 Compile main.c with visual studio and run on target machine
+
+# Extra
+
+The company was warned on August 2
