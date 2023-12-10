@@ -5,7 +5,9 @@ Delete Cybereason on your system<br>
 
 # USAGE
 
-Compile main.c with visual studio and run on target machine
+Compile main.c with visual studio and run on target machine<br>
+
+Wait 5 seconds or more. Cybereason will be deleted from your system
 
 # Extra
 
