@@ -11,7 +11,10 @@ Wait 5 seconds or more. Cybereason will be deleted from your system
 
 
 
-https://github.com/mertdas/Tampereason/assets/48562581/35df2db1-d278-4ade-af7a-1d7a04018354
+
+
+
+https://github.com/mertdas/Tampereason/assets/48562581/b94be1f7-25f5-4b75-8cf6-0afe00506b62
 
 
 
